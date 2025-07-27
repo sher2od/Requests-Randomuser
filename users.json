@@ -1,0 +1,62 @@
+[
+  {
+    "full_name": "Siegried Waldmann",
+    "email": "siegried.waldmann@example.com",
+    "gender": "female",
+    "country": "Germany"
+  },
+  {
+    "full_name": "Dimitrije Damjanovi\u0107",
+    "email": "dimitrije.damjanovic@example.com",
+    "gender": "male",
+    "country": "Serbia"
+  },
+  {
+    "full_name": "Malou Nielsen",
+    "email": "malou.nielsen@example.com",
+    "gender": "female",
+    "country": "Denmark"
+  },
+  {
+    "full_name": "Manbir Vernekar",
+    "email": "manbir.vernekar@example.com",
+    "gender": "male",
+    "country": "India"
+  },
+  {
+    "full_name": "Fabien Lemaire",
+    "email": "fabien.lemaire@example.com",
+    "gender": "male",
+    "country": "Switzerland"
+  },
+  {
+    "full_name": "S\u00e9bastien Garcia",
+    "email": "sebastien.garcia@example.com",
+    "gender": "male",
+    "country": "Switzerland"
+  },
+  {
+    "full_name": "Omar Cuellar",
+    "email": "omar.cuellar@example.com",
+    "gender": "male",
+    "country": "Mexico"
+  },
+  {
+    "full_name": "Angelo Deschamps",
+    "email": "angelo.deschamps@example.com",
+    "gender": "male",
+    "country": "France"
+  },
+  {
+    "full_name": "Thomas Anderson",
+    "email": "thomas.anderson@example.com",
+    "gender": "male",
+    "country": "Canada"
+  },
+  {
+    "full_name": "Okan \u00c7etin",
+    "email": "okan.cetin@example.com",
+    "gender": "male",
+    "country": "Turkey"
+  }
+]

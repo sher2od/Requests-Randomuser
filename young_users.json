@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ellen Reyes",
+    "birth_year": 1991,
+    "email": "ellen.reyes@example.com"
+  },
+  {
+    "name": "Yolanda Santana",
+    "birth_year": 1997,
+    "email": "yolanda.santana@example.com"
+  },
+  {
+    "name": "Kay Lawrence",
+    "birth_year": 1992,
+    "email": "kay.lawrence@example.com"
+  },
+  {
+    "name": "Santiago Suarez",
+    "birth_year": 1997,
+    "email": "santiago.suarez@example.com"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "full_name": "Jessica Payne",
+    "email": "jessica.payne@example.com",
+    "Phone": "015394 11647",
+    "country": "United Kingdom"
+  },
+  {
+    "full_name": "Terry Palmer",
+    "email": "terry.palmer@example.com",
+    "Phone": "00-1160-1990",
+    "country": "Australia"
+  },
+  {
+    "full_name": "Neea Mantyla",
+    "email": "neea.mantyla@example.com",
+    "Phone": "02-828-730",
+    "country": "Finland"
+  },
+  {
+    "full_name": "Mar\u00eda Cristina T\u00e9llez",
+    "email": "mariacristina.tellez@example.com",
+    "Phone": "(623) 348 1657",
+    "country": "Mexico"
+  },
+  {
+    "full_name": "Amanda Abdullah",
+    "email": "amanda.abdullah@example.com",
+    "Phone": "27720109",
+    "country": "Norway"
+  },
+  {
+    "full_name": "Eleanor Cole",
+    "email": "eleanor.cole@example.com",
+    "Phone": "061-852-2366",
+    "country": "Ireland"
+  },
+  {
+    "full_name": "Laly Berger",
+    "email": "laly.berger@example.com",
+    "Phone": "03-27-92-93-52",
+    "country": "France"
+  },
+  {
+    "full_name": "Agar Pinto",
+    "email": "agar.pinto@example.com",
+    "Phone": "(14) 3454-0943",
+    "country": "Brazil"
+  },
+  {
+    "full_name": "Deniz Yal\u00e7\u0131n",
+    "email": "deniz.yalcin@example.com",
+    "Phone": "(497)-128-9687",
+    "country": "Turkey"
+  },
+  {
+    "full_name": "Cassandra Owens",
+    "email": "cassandra.owens@example.com",
+    "Phone": "05-0758-4459",
+    "country": "Australia"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "first_name": "Gilbert",
+  "last_name": "Peterson",
+  "gender": "male",
+  "email": "gilbert.peterson@example.com",
+  "phone": "013873 48509",
+  "address": {
+    "street": "School Lane",
+    "city": "Cambridge",
+    "country": "United Kingdom"
+  }
+}
